@@ -42,20 +42,6 @@ This portfolio is a collection of my work as a web developer. It highlights key 
 
 ---
 
-## 💻 **How to Run**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Yugal-kosamshile/portfolio.git
-   cd portfolio
-   ```
-
-2. Open `index.html` in your web browser to view the main portfolio page.
-
-3. Navigate through the links to explore individual projects or learn more about me.
-
----
-
 ## 🔗 **Live Preview**
 
 You can also view this project live [here](https://yugal-kosamshile.github.io/HTML-Portfolio/) 
