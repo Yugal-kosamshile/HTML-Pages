@@ -58,8 +58,7 @@ This portfolio is a collection of my work as a web developer. It highlights key 
 
 ## 🔗 **Live Preview**
 
-You can also view this project live [here](#) (Add a link to your hosted portfolio, e.g., GitHub Pages, Netlify, etc.).
-
+You can also view this project live [here](https://yugal-kosamshile.github.io/HTML-Portfolio/) 
 ---
 
 ## 🤝 **Connect with Me**
