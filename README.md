@@ -42,11 +42,6 @@ This portfolio is a collection of my work as a web developer. It highlights key 
 
 ---
 
-## 🔗 **Live Preview**
-
-You can also view this project live [here](https://yugal-kosamshile.github.io/HTML-Portfolio/) 
----
-
 ## 🤝 **Connect with Me**
 
 - **LinkedIn**: [Yugal Kosamshile](https://www.linkedin.com/in/yugal-kosamshile-29a03a2)
